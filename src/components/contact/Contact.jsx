@@ -78,12 +78,12 @@ const sendEmail = (e) => {
         <motion.h1 variants={variants}>Let's Work Together</motion.h1>
         <motion.div className="item" variants={variants}>
           <motion.h2>Mail</motion.h2>
-          <motion.span>Ankit.yadav@Candere.com</motion.span>
+          <motion.span>yadavankit68072@gmail.com</motion.span>
         </motion.div>
-        <motion.div className="item" variants={variants}>
+        {/* <motion.div className="item" variants={variants}>
           <motion.h2>Address</motion.h2>
-          <motion.span>Hello Street New York</motion.span>
-        </motion.div>
+          <motion.span></motion.span>
+        </motion.div> */}
         <motion.div className="item" variants={variants}>
           <motion.h2>Phone</motion.h2>
           <motion.span>91+ 9987266397</motion.span>
